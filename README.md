@@ -1,4 +1,4 @@
-# 🌟 *kubernetes content*
+# 🌟 *kubernetes Content*
 **<p style="color:orange; font-size:18px;">Welcome to my project! 🚀</p>**
 ## 📖 About
 ***In kubernetes if you deploy any app. You have to make three files of your app.***  
