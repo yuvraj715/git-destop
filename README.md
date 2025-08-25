@@ -8,6 +8,7 @@
 - **server.yml**
 
 ## 📬 Contact
-Created by [Yuvraj Singh Kushwah](https://github.com/YuvrajSingh715)  
+📝Created by-Yuvraj Singh Kushwah &&
+GitHub link-https://github.com/YuvrajSingh715 &&
 📧 Email: kushwahyuvraj262@gmail.com.com
 
